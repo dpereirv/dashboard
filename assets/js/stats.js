@@ -263,3 +263,5 @@ let chart3 =  new Chart(chartRef3, {
 
 
 }
+
+loadData();
